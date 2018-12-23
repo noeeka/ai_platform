@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--company: 杭州新瀚光电科技有限公司 -->
+<root template="" >
+<userinfos id="1015451854034563_12" name="通天塔" sex="男" birthday="2018/12/3 0:00:00" card="" date="2018/12/21 13:51:19" sessions="1" projects="" notes="444" address="" mobile="13678909089" treat=""/>
+<ImageInfos>
+</ImageInfos>
+<reportInfos src="" type="体检报告">
+<Areas/>
+<results>
+</results><suggest value="" description="建议合集">
+</suggest>
+<medical physical="" code_hot="寒性" profit_loss="正气不足" bodily_form="偏胖型" spirit_blood="津液不足" internal_sate="胆功能失调,肾功能失调" >
+<description description="体质描述"></description>
+<mainpoints description="原则要点"></mainpoints>
+<food description="饮食调理"></food>
+<sport description="运动调理"></sport>
+<medicine description="中药调理"></medicine>
+<living description="起居调理"></living>
+<medicine_food description="药膳调理"></medicine_food>
+<collateral description="经络调理"></collateral>
+</medical>
+<archer>
+<results>
+</results>
+<treatment></treatment>
+<suggest></suggest>
+</archer>
+<differentiation>
+<profit sq="" gy="" jz="" tip="" />
+<focus up="" mid="" down="" tip="" />
+<meridianhot></meridianhot>
+<specific></specific>
+<river></river>
+<nature></nature>
+<physical></physical>
+<differention></differention>
+<mainpoints></mainpoints>
+<medicine></medicine>
+<meridiantreat>
+</meridiantreat>
+</differentiation>
+<more />
+</reportInfos></root>
